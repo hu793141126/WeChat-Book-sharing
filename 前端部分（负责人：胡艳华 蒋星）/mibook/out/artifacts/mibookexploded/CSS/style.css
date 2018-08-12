@@ -1,0 +1,25 @@
+*{margin:0;padding:0;}
+body{
+    width: 100%;
+    height: 100%;
+}
+.carousel-inner .item{
+    width: 100%;
+    height: 30%;
+}
+.carousel{
+    margin-left:5%;
+    margin-right:5%;
+}
+img{
+    width:100%;
+}
+
+.nav{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 50px;
+
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/BookAchieve.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/BookRing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/BookType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/Borrow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/Business.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/Database.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/PersonalChat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/Ringmember.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mibook/top/model/UserAchieve.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

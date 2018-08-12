@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mibook">
+    <output-path>$PROJECT_DIR$/out/artifacts/mibook</output-path>
+    <root id="archive" name="mibook.war">
+      <element id="artifact" artifact-name="mibookexploded" />
+    </root>
+  </artifact>
+</component>
